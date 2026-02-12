@@ -684,6 +684,7 @@ Telemetry messages (typically `GLOBAL_POSITION_INT`) update:
 - altitude
 - heading
 - map marker position and direction lines
+<img width="1800" height="952" alt="86" src="https://github.com/user-attachments/assets/2c8a7af3-2307-42df-a2a6-bff6a263674a" />
 
 ---
 
@@ -703,6 +704,7 @@ Telemetry messages (`LOCAL_POSITION_NED`) update:
 - local position (x,y,z)
 - local velocities
 - the drone marker on the plane
+<img width="851" height="610" alt="47" src="https://github.com/user-attachments/assets/5af08934-ae2a-4e3d-b666-3482f4223032" />
 
 ---
 
@@ -779,6 +781,7 @@ Two experimental camera implementations exist:
 - Receives frames over a TCP socket from that script.
 
 > ✅ If you plan to use WebRTC, you should **move the Python script into the repo** and replace hardcoded paths with configuration.
+<img width="1919" height="1033" alt="89" src="https://github.com/user-attachments/assets/6bfd0969-bab7-4e8e-aad1-ac0d32720fb5" />
 
 ---
 
@@ -796,6 +799,7 @@ SetupForm is the “advanced configuration” UI:
   - `SetScenario(...)`
   - `GetScenario(...)`
 - enables the geofence monitor thread.
+<img width="480" height="431" alt="87" src="https://github.com/user-attachments/assets/1b91fe8d-aae0-4143-bd63-8bb72681dcb1" />
 
 ---
 
